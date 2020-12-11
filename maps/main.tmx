@@ -144,7 +144,9 @@
  <tileset firstgid="37" name="furniture" tilewidth="32" tileheight="32" tilecount="64" columns="8">
   <image source="furniture.png" width="256" height="256"/>
  </tileset>
- <tileset firstgid="101" source="characters.tsx"/>
+ <tileset firstgid="101" name="characters" tilewidth="32" tileheight="32" tilecount="8" columns="8">
+  <image source="characters.png" width="256" height="32"/>
+ </tileset>
  <tileset firstgid="109" name="Meta" tilewidth="32" tileheight="32" tilecount="5" columns="5">
   <image source="meta_sprites.png" width="160" height="32"/>
  </tileset>
