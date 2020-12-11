@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="8" nextobjectid="1">
+ <editorsettings>
+  <export target="../main.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="berg walls" tilewidth="32" tileheight="32" tilecount="36" columns="4">
   <image source="berg_walls.png" width="128" height="288"/>
   <tile id="0">
@@ -149,6 +152,9 @@
   <image source="floor.png" width="256" height="32"/>
  </tileset>
  <layer id="6" name="start" width="60" height="40">
+  <properties>
+   <property name="startLayer" type="bool" value="true"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
