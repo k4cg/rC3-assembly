@@ -132,7 +132,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/stephane.ducasse.free.fr\/FreeBooks\/BlueBook\/Bluebook.pdf"
+                 "value":"https:\/\/wiki.squeak.org\/squeak\/64"
                 }],
          "type":"tilelayer",
          "visible":true,
