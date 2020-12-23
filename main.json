@@ -50,7 +50,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/k4cg.org\/index.php\/Rc3-Lebkuchis"
+                 "value":"https:\/\/hackmd.io\/@Poschi\/rc3-lebkuchis"
                 }],
          "type":"tilelayer",
          "visible":true,
