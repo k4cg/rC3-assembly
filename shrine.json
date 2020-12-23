@@ -27,7 +27,7 @@
                  "value":"main.json#return_shrine"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":28,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":28,
          "x":0,
          "y":0
@@ -51,7 +51,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":28,
          "x":0,
          "y":0
@@ -63,7 +63,7 @@
          "name":"buildings",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":28,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -86,7 +86,7 @@
          "name":"over",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":28,
          "x":0,
          "y":0
