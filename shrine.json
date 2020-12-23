@@ -42,7 +42,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"http:\/\/ccmixter.org\/content\/johnfrantz17\/johnfrantz17_-_Awake.mp3"
+                 "value":"audio\/johnfrantz17_-_Awake.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
