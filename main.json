@@ -344,7 +344,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"  {<chaosvermittlung>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
