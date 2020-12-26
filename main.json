@@ -200,7 +200,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vernunftzentrum.de\/ckeen"
+                 "value":"https:\/\/vernunftzentrum.de\/rc3\/thanks.html"
                 }],
          "type":"tilelayer",
          "visible":true,
