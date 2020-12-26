@@ -128,7 +128,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"       "
+                 "value":"audio\/Nullsleep_-_02_-_silent_night.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -200,7 +200,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vernunftzentrum.de\/rc3\/thanks.html"
+                 "value":"      "
                 }],
          "type":"tilelayer",
          "visible":true,
