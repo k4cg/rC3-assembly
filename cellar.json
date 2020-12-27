@@ -232,8 +232,17 @@
          "source":"maps\/furniture.tsx"
         }, 
         {
+         "columns":8,
          "firstgid":368,
-         "source":"maps\/Londrik.tsx"
+         "image":"maps\/londrik.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"Londrik",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":432,
