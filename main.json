@@ -254,7 +254,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=nbgsubculture&parent=test.visit.at.wa-test.rc3.cccv.de"
+                 "value":"https:\/\/player.twitch.tv\/?channel=nbgsubculture&parent=visit.at.rc3.world"
                 }],
          "type":"tilelayer",
          "visible":true,
