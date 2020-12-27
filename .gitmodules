@@ -1,0 +1,3 @@
+[submodule "chrisc/shuntingpuzzles"]
+	path = chrisc/shuntingpuzzles
+	url = https://github.com/chca42/shuntingpuzzles
