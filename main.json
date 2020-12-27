@@ -98,7 +98,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hackmd.io\/@Poschi\/rc3-lebkuchis#Fette-Sounds-nbgsubculture"
+                 "value":"https:\/\/hackmd.io\/@Poschi\/rc3-lebkuchis"
                 }],
          "type":"tilelayer",
          "visible":true,
