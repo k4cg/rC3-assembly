@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rc3.cmesh.de\/game?inglenook"
+                 "value":"https:\/\/rc3.cmesh.de\/game?level=inglenook"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rc3.cmesh.de\/game?timesaver"
+                 "value":"https:\/\/rc3.cmesh.de\/game?level=timesaver"
                 }],
          "type":"tilelayer",
          "visible":true,
