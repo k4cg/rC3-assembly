@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_lebkuch-is}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_lebkuch-is}"
                 }],
          "type":"tilelayer",
          "visible":true,
