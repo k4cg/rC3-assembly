@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/thirdfloor.json#enterFromLebkuchen"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/haecksen\/maps\/thirdfloor.json#enterFromLebkuchen"
                 }],
          "type":"tilelayer",
          "visible":true,
