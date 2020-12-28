@@ -314,7 +314,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/"
+                 "value":"https:\/\/podcast.entbehrlich.es\/"
                 }],
          "type":"tilelayer",
          "visible":true,
