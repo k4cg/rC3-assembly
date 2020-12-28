@@ -163,7 +163,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"cellar.json#start"
+                 "value":"cellar.json#goto_darkroom"
                 }],
          "type":"tilelayer",
          "visible":true,
