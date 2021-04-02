@@ -46,6 +46,12 @@
          "id":44,
          "name":"return_bunny",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"start_layer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
