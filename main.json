@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_lebkuchis "
+                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_lebkuchis"
                 }],
          "type":"tilelayer",
          "visible":true,
