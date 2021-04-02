@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/world.di.c3voc.de\/_\/global\/world.di.c3voc.de\/maps\/main.json#start_lebkuch-is "
+                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_lebkuchis "
                 }],
          "type":"tilelayer",
          "visible":true,
