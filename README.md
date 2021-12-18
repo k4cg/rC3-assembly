@@ -1,9 +1,5 @@
-# r2r
-all the data and graphics for our assembly at r2r
-# English
+# RC3 - 2021 lebkuch.is map
 
-Here we collect all the data and pixelart for our r2r assembly 
-
-# Deutsch
-
-Hier sammeln wir alles an pixelart und sonstiges für unser r2r assembly
+All tilesets made by the team are put unter a CC-BY-NC-SA License. See LICENSE for details.
+All other tilesets and assets may have their own license, and will be attributed in the 
+map and in their directories' LICENSE file.
