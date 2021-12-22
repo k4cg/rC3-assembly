@@ -124,6 +124,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"00_meta",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -137,6 +143,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"tree",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -232,6 +244,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"fire",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
@@ -384,6 +402,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"winter_terrain",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -397,6 +421,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"booth",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -410,6 +440,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"lantern",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -423,6 +459,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"winkekatze",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":10,
          "tileheight":32,
@@ -481,6 +523,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"oven",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -494,6 +542,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"grill",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
