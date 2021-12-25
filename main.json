@@ -390,7 +390,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"tilesets\/meta_sprites.png",
+         "image":"tilesets\/ckeen\/meta_sprites.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
@@ -409,7 +409,7 @@
         {
          "columns":3,
          "firstgid":7,
-         "image":"tilesets\/tree.png",
+         "image":"tilesets\/ckeen\/tree.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -537,7 +537,7 @@
         {
          "columns":9,
          "firstgid":19,
-         "image":"tilesets\/fire.png",
+         "image":"tilesets\/ckeen\/fire.png",
          "imageheight":192,
          "imagewidth":288,
          "margin":0,
@@ -695,7 +695,7 @@
         {
          "columns":8,
          "firstgid":73,
-         "image":"tilesets\/winter_terrain.png",
+         "image":"tilesets\/ckeen\/winter_terrain.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -714,7 +714,7 @@
         {
          "columns":5,
          "firstgid":137,
-         "image":"tilesets\/booth.png",
+         "image":"tilesets\/ckeen\/booth.png",
          "imageheight":161,
          "imagewidth":160,
          "margin":0,
@@ -896,7 +896,7 @@
         {
          "columns":1,
          "firstgid":162,
-         "image":"tilesets\/lantern.png",
+         "image":"tilesets\/ckeen\/lantern.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -915,7 +915,7 @@
         {
          "columns":10,
          "firstgid":164,
-         "image":"tilesets\/winkekatze.png",
+         "image":"tilesets\/ckeen\/winkekatze.png",
          "imageheight":32,
          "imagewidth":320,
          "margin":0,
@@ -979,7 +979,7 @@
         {
          "columns":4,
          "firstgid":174,
-         "image":"tilesets\/oven.png",
+         "image":"tilesets\/ckeen\/oven.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -998,7 +998,7 @@
         {
          "columns":4,
          "firstgid":190,
-         "image":"tilesets\/grill.png",
+         "image":"tilesets\/ckeen\/grill.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1101,7 +1101,7 @@
         {
          "columns":2,
          "firstgid":251,
-         "image":"tilesets\/worldExit.png",
+         "image":"tilesets\/ckeen\/worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1120,7 +1120,7 @@
         {
          "columns":10,
          "firstgid":255,
-         "image":"tilesets\/heartofgold.png",
+         "image":"tilesets\/ckeen\/heartofgold.png",
          "imageheight":64,
          "imagewidth":320,
          "margin":0,
@@ -1184,7 +1184,7 @@
         {
          "columns":10,
          "firstgid":275,
-         "image":"tilesets\/signs.png",
+         "image":"tilesets\/ckeen\/signs.png",
          "imageheight":160,
          "imagewidth":320,
          "margin":0,
@@ -1252,7 +1252,7 @@
         {
          "columns":6,
          "firstgid":325,
-         "image":"tilesets\/frozen_water.png",
+         "image":"tilesets\/ckeen\/frozen_water.png",
          "imageheight":96,
          "imagewidth":192,
          "margin":0,
