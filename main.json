@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#from_hole"
+                 "value":"main.json#from_hole"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,7 +168,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lounge"
+                 "value":"lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -344,7 +344,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"8ff5o2XqQnbWtde9xxONLiNc8ziJqOs8kgR4TAw34BZEhz6zdO "
+                         "value":"8ff5o2XqQnbWtde9xxONLiNc8ziJqOs8kgR4TAw34BZEhz6zdO"
                         }],
                  "rotation":0,
                  "type":"",
