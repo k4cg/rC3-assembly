@@ -180,7 +180,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
