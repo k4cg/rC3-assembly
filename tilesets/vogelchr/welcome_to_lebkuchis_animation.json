@@ -4,6 +4,12 @@
  "imagewidth":384,
  "margin":0,
  "name":"welcome_animation",
+ "properties":[
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"CC-BY-SA"
+        }],
  "spacing":0,
  "tilecount":612,
  "tiledversion":"1.7.2",
