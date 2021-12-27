@@ -67,6 +67,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/hackmd.io\/6MnZ2C3jQcm-33heo_BTmQ?view"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,6 +90,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/rc3.cmesh.de\/game?level=inglenook"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,6 +113,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/rc3.cmesh.de\/game?level=timesaver"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -119,6 +134,12 @@
                  "height":35.3333333333333,
                  "id":3,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Ot4k4w7sPWejhQzVLzA1BF4ezPU1HwwRFOr3m7yoVDARUWM6Uk"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -127,12 +148,6 @@
                  "y":222.333333333333
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"Ot4k4w7sPWejhQzVLzA1BF4ezPU1HwwRFOr3m7yoVDARUWM6Uk"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -271,6 +286,21 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"CC-BY-SA"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Cellar with Darkroom and Minigames"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/k4cg.org\/index.php\/Rc3-Lebkuchis"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Cellar"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
