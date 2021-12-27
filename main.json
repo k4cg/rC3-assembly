@@ -203,7 +203,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lobby"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_lebkuchis"
                 }],
          "type":"tilelayer",
          "visible":true,
