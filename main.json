@@ -8,6 +8,12 @@
          "id":36,
          "name":"from_cellar",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -491,12 +497,6 @@
                  "y":434.666666666667
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"8ff5o2XqQnbWtde9xxONLiNc8ziJqOs8kgR4TAw34BZEhz6zdO"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -6213,6 +6213,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"cellar-hint",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
