@@ -812,11 +812,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA"
                         }]
                 }, 
                 {
@@ -1442,11 +1437,6 @@
          "name":"bricks",
          "properties":[
                 {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC-BY-SA"
@@ -1462,11 +1452,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA"
                         }]
                 }, 
                 {
@@ -1642,6 +1627,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"anna",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -1706,19 +1697,15 @@
          "imagewidth":352,
          "margin":0,
          "name":"path",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":33,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -1729,6 +1716,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"jumpingfish",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":13,
          "tileheight":32,
@@ -1799,6 +1792,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"booth2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -1812,6 +1811,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"ledsign_animation",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":432,
          "tileheight":32,
@@ -3542,6 +3547,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"birds",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
