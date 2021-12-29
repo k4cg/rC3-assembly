@@ -38,6 +38,12 @@
          "id":3,
          "name":"globe",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"assets\/Mikel - Minuet of Forest-2345624043.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":14,
