@@ -9,6 +9,9 @@
    id="svg5"
    sodipodi:docname="snowglobe.svg"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +27,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.69881641"
-     inkscape:cx="373.48865"
-     inkscape:cy="256.86289"
+     inkscape:zoom="1.5497676"
+     inkscape:cx="200.67525"
+     inkscape:cy="519.75535"
      inkscape:window-width="1183"
      inkscape:window-height="777"
      inkscape:window-x="0"
@@ -108,12 +111,9 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       id="path868-3-8-9-4"
-       style="fill:#ff9955;fill-opacity:1;stroke-width:0.764154;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-       d="m 57.186269,119.59067 v 9.2149 a 97.271742,77.273577 0 0 0 15.896128,1.84362 97.271736,77.273577 0 0 0 2.957236,0.10297 97.271742,77.273577 0 0 0 3.037369,0.062 97.271742,77.273577 0 0 0 1.274155,-0.0248 97.271736,77.273577 0 0 0 6.183304,-0.22639 97.271742,77.273577 0 0 0 1.587194,-0.0919 97.271736,77.273577 0 0 0 8.057557,-0.88576 97.271742,77.273577 0 0 0 0.453183,-0.0617 97.271736,77.273577 0 0 0 4.029715,-0.68075 v -9.21492 a 97.271736,77.273577 0 0 1 -4.029715,0.68078 97.271742,77.273577 0 0 1 -0.453183,0.0617 97.271736,77.273577 0 0 1 -8.057557,0.88574 97.271742,77.273577 0 0 1 -1.587194,0.0919 97.271736,77.273577 0 0 1 -6.183304,0.2264 97.271742,77.273577 0 0 1 -1.274155,0.0248 97.271742,77.273577 0 0 1 -3.037369,-0.062 97.271736,77.273577 0 0 1 -2.957236,-0.10296 97.271742,77.273577 0 0 1 -15.896128,-1.8436 z"
-       inkscape:export-filename="/Users/julianeclausen/snowglobe_globe.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       id="path868-3-8-9"
+       style="display:inline;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.578847;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 49.623158,117.21333 -2.128035,10.03763 c 2.257083,0.60183 4.540036,1.13821 6.84506,1.60662 5.902552,1.19948 11.946948,1.9584 18.054711,2.26085 0.985102,0.0462 1.971029,0.0805 2.957444,0.10283 1.012044,0.0332 2.024681,0.0539 3.037541,0.062 0.424672,-0.006 0.849286,-0.0143 1.273823,-0.0248 2.0637,-0.0233 4.125947,-0.0988 6.183601,-0.22634 0.529301,-0.0272 1.058315,-0.0579 1.586984,-0.092 2.700165,-0.20587 5.388313,-0.50137 8.057388,-0.88573 0.15113,-0.0202 0.302199,-0.0407 0.453202,-0.0615 4.043884,-0.60943 8.031193,-1.42165 11.937773,-2.43034 0.3677,-0.0949 0.73446,-0.192 1.10071,-0.29042 l -2.127,-10.0335 c -3.57786,0.88914 -7.221038,1.61476 -10.911483,2.17093 -0.0755,0.0104 -0.150807,0.0207 -0.226341,0.031 -0.07553,0.0102 -0.151296,0.0204 -0.226861,0.0305 -2.669075,0.38436 -5.357223,0.67986 -8.057388,0.88573 -0.528669,0.0341 -1.057683,0.0648 -1.586984,0.092 -2.057654,0.12755 -4.119901,0.20304 -6.183601,0.22635 -0.424537,0.0105 -0.849151,0.0187 -1.273823,0.0248 -1.01286,-0.008 -2.025497,-0.0288 -3.037541,-0.062 -0.986415,-0.0224 -1.972342,-0.0566 -2.957444,-0.10283 -6.107763,-0.30244 -12.152159,-1.06138 -18.054711,-2.26085 -1.58328,-0.32174 -3.155672,-0.67609 -4.717025,-1.06092 z" />
     <path
        id="path868-3"
        style="fill:#002255;stroke:#000000;stroke-width:0.578847;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -121,6 +121,50 @@
        inkscape:export-filename="/Users/julianeclausen/snowglobe_globe.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <g
+       id="g5900"
+       transform="translate(0,-26.458334)">
+      <path
+         d="m 53.427743,146.71434 3.457212,0.70209 -0.175521,0.8643 0.864302,0.17552 -0.175521,0.8643 -1.728605,-0.35104 0.175521,-0.8643 -1.728606,-0.35104 -0.877605,4.32151 1.728605,0.35104 0.175521,-0.8643 1.728606,0.35104 -0.175521,0.86431 -0.864303,-0.17553 -0.175521,0.86431 -3.457211,-0.70209 0.175521,-0.8643 -0.864303,-0.17552 0.877605,-4.32151 0.864303,0.17552 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5802" />
+      <path
+         d="m 58.300167,147.71162 1.744456,0.26111 -0.261112,1.74446 2.616684,0.39166 -0.130556,0.87223 0.872228,0.13056 -0.522225,3.48891 -1.744457,-0.26111 0.522226,-3.48891 -1.744457,-0.26112 -0.522225,3.48892 -1.744457,-0.26112 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5804" />
+      <path
+         d="m 64.935403,149.54012 1.753888,0.18759 -0.09379,0.87694 -1.753887,-0.18758 z m -1.064527,1.6601 2.630831,0.28137 -0.281376,2.63083 0.876944,0.0938 -0.09379,0.87694 -3.507775,-0.37517 0.09379,-0.87694 0.876944,0.0938 0.187584,-1.75389 -0.876944,-0.0938 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5806" />
+      <path
+         d="m 67.469774,148.93734 2.638256,0.20012 -0.400237,5.27652 0.879419,0.0667 -0.06671,0.87942 -3.517674,-0.26682 0.06671,-0.87942 0.879418,0.0667 0.333531,-4.39709 -0.879419,-0.0667 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5808" />
+      <path
+         d="m 70.787085,149.21175 2.643353,0.11459 -0.229182,5.28671 0.881118,0.0382 -0.0382,0.88111 -3.52447,-0.15278 0.0382,-0.88112 0.881117,0.0382 0.190985,-4.40559 -0.881118,-0.0382 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5810" />
+      <path
+         d="m 75.830174,149.43961 3.527756,0.0131 -0.0033,0.88194 0.881939,0.003 -0.0033,0.88194 -1.763878,-0.007 0.0033,-0.88194 -1.763877,-0.007 -0.01643,4.4097 1.763878,0.007 0.0066,-1.76388 -0.881939,-0.003 0.0033,-0.88193 2.645817,0.01 -0.0099,2.64582 -0.881938,-0.003 -0.0033,0.88194 -3.527755,-0.0131 0.0033,-0.88194 -0.881939,-0.003 0.01643,-4.40969 0.881939,0.003 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5812" />
+      <path
+         d="m 80.845817,149.42704 2.643606,-0.10856 0.217132,5.28721 0.881202,-0.0362 0.03619,0.8812 -3.524809,0.14476 -0.03619,-0.8812 0.881202,-0.0362 -0.180943,-4.40601 -0.881202,0.0362 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5814" />
+      <path
+         d="m 86.023142,150.97575 3.515777,-0.29077 0.07269,0.87895 0.878944,-0.0727 0.218073,2.63683 -0.878944,0.0727 0.07269,0.87894 -3.515777,0.29077 -0.07269,-0.87895 -0.878945,0.0727 -0.218073,-2.63684 0.878945,-0.0727 z m 0.951635,0.80625 0.218073,2.63683 1.757888,-0.14538 -0.218073,-2.63683 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5816" />
+      <path
+         d="m 90.940067,149.68303 1.747447,-0.24029 0.240282,1.74745 2.621171,-0.36042 0.120141,0.87372 0.873724,-0.12014 0.240281,1.74745 -0.873723,0.12014 0.12014,0.87372 -4.368618,0.60071 z m 2.110344,2.37359 0.240751,1.75086 1.754273,-0.24122 -0.24075,-1.75086 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5818" />
+      <path
+         d="m 97.807611,149.58751 3.463659,-0.66954 0.16739,0.86591 0.86591,-0.16738 0.33477,1.73183 -3.463656,0.66954 0.167386,0.86591 2.59775,-0.50215 0.16738,0.86591 -3.463659,0.66955 -0.167386,-0.86592 -0.865915,0.16739 -0.502158,-2.59775 0.865915,-0.16738 z m 1.033301,0.69853 0.167386,0.86591 1.731832,-0.33477 -0.16739,-0.86591 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5820" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
