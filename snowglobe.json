@@ -8,6 +8,12 @@
          "id":1,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":14,
@@ -126,9 +132,14 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"exitUrl",
+         "name":"mapCopyright",
          "type":"string",
-         "value":"main.json#start"
+         "value":"CC-BY-SA"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Snowglobe"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
