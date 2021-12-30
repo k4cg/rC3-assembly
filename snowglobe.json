@@ -133,9 +133,8 @@
          "name":"badge",
          "objects":[
                 {
-                 "ellipse":true,
-                 "height":361.329261720855,
-                 "id":2,
+                 "height":329.13957248069,
+                 "id":3,
                  "name":"",
                  "properties":[
                         {
@@ -146,9 +145,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":395.128435423029,
-                 "x":43.4560804742231,
-                 "y":18.509071313095
+                 "width":400.761631040058,
+                 "x":38.6276270881983,
+                 "y":25.7517513921322
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -157,7 +156,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":3,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":[
         {
